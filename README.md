@@ -1,6 +1,19 @@
 # Interactive Web Development Showcase
 
-This project is an interactive showcase of web development technologies, demonstrating the progression from HTML to CSS to JavaScript. It was created using React with TypeScript and Vite, styled with Tailwind CSS, and enhanced with animations and interactive elements.
+This project is an interactive showcase of web development technologies, demonstrating the progression from HTML to CSS to JavaScript. 
+
+It was created using React with TypeScript and Vite, styled with Tailwind CSS, and enhanced with animations and interactive elements.
+
+## Created with Bolt.new
+This project was created using [Bolt](https://bolt.new/), an AI-powered development assistant.
+
+Bolt utilized a React with TypeScript template as the starting point. It then incrementally built the project by creating and modifying key files such as App.tsx, index.css, and package.json. The AI assistant implemented the core functionality, including the view progression logic, code display, and interactive elements like the typewriter effect and restart button. Bolt also set up the project structure, added necessary dependencies, and configured tools like ESLint, Tailwind CSS, and Vite for optimal development and build processes. Throughout the creation process, Bolt adhered to best practices in React development, TypeScript usage, and modern web design principles, resulting in a fully functional and visually appealing interactive web development showcase.
+
+## Viewing the Project
+
+The latest version of the project can be viewed at: https://relaxed-mandazi-5543e4.netlify.app
+
+This project serves as both a learning tool and a demonstration of modern web development techniques, showcasing the power and interactivity possible with current web technologies.
 
 ## Project Overview
 
@@ -60,23 +73,3 @@ Each view demonstrates a specific aspect of web development, with code examples 
 ## Deployment and Versioning
 
 This project is deployed using Netlify. Each deployment creates a new version of the site.
-
-### Saving a Version
-Every time changes are pushed and deployed, Netlify automatically saves that version.
-
-### Tagging a Version
-While we don't have direct Git access in this environment, we can use Netlify's deploy labels to mark important versions.
-
-### Rolling Back
-To revert to a previous version:
-1. Access the Netlify dashboard.
-2. Navigate to the Deploys section.
-3. Find the desired previous deploy.
-4. Click on the three-dot menu next to it.
-5. Select "Publish deploy" to roll back to that version.
-
-## Viewing the Project
-
-The latest version of the project can be viewed at: https://relaxed-mandazi-5543e4.netlify.app
-
-This project serves as both a learning tool and a demonstration of modern web development techniques, showcasing the power and interactivity possible with current web technologies.
