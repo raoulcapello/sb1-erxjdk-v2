@@ -4,10 +4,14 @@ This project is an interactive showcase of web development technologies, demonst
 
 It was created using React with TypeScript and Vite, styled with Tailwind CSS, and enhanced with animations and interactive elements.
 
-## Created with Bolt.new
+## Created with Bolt
 This project was created using [Bolt](https://bolt.new/), an AI-powered development assistant.
 
-Bolt utilized a React with TypeScript template as the starting point. It then incrementally built the project by creating and modifying key files such as App.tsx, index.css, and package.json. The AI assistant implemented the core functionality, including the view progression logic, code display, and interactive elements like the typewriter effect and restart button. Bolt also set up the project structure, added necessary dependencies, and configured tools like ESLint, Tailwind CSS, and Vite for optimal development and build processes. Throughout the creation process, Bolt adhered to best practices in React development, TypeScript usage, and modern web design principles, resulting in a fully functional and visually appealing interactive web development showcase.
+Bolt utilized a React with TypeScript template as the starting point. It then incrementally built the project by creating and modifying key files such as App.tsx, index.css, and package.json. 
+
+The AI assistant implemented the core functionality, including the view progression logic, code display, and interactive elements like the typewriter effect and restart button. Bolt also set up the project structure, added necessary dependencies, and configured tools like ESLint, Tailwind CSS, and Vite for optimal development and build processes. 
+
+Throughout the creation process, Bolt adhered to best practices in React development, TypeScript usage, and modern web design principles, resulting in a fully functional and visually appealing interactive web development showcase.
 
 ## Viewing the Project
 
